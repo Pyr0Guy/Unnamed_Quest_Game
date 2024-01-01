@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "windows.h": "c",
+    "dsound.h": "c",
+    "game.h": "c",
+    "windowsx.h": "c"
+  }
+}
